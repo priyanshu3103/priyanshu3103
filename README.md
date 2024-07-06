@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Barapatre</h1>
-<h3 align="center">I am passionate about DevOps like How the deployment process work and how the automate works.</h3>
+<h3 align="center">I am passionate about DevOps like How the deployment process work and how the automatation works.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu3103&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu3103" /> </p>
 
